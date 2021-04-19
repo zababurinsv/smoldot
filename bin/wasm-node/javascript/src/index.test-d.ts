@@ -2,7 +2,7 @@ import smoldot, { Smoldot, SmoldotClient } from 'smoldot';
 
 // Test the export type
 
-// smoldot;  // $ExpectType Smoldot
+smoldot;  // $ExpectType Smoldot
 
 // Test when suppliying all options and all params to json_rpc_callback
 
