@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["validate","Runtime call to obtain the transactions validity status."]]});
